@@ -1,15 +1,12 @@
-# Big Data - 1S2024 (UCEMA)
+# Programación orientada a datos (UCEMA 2S2023)
 
-Este repositorio contiene todas los aportes y trabajos prácticos, de la materia **Big Data** dictada en el 3er año de la "Licenciatura Analítica de Negocios" en la Universidad del CEMA.
+Este repositorio contiene todas los aportes y trabajos prácticos, de la materia **Programación orientada a datos** dictada en el 2do año de la "Licenciatura Analítica de Negocios" en la Universidad del CEMA.
 
 ## Lenguajes y librerías utilizadas
 
 - Python
 - Pandas
 - Seaborn
-- Yfinance
+- Matplotlib
 - OS
-- Datetime
-- sqlite3
-- SQL
-
+- Scikit learn
